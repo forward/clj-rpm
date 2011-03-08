@@ -1,0 +1,1 @@
+(ns clj-rpm.core)
